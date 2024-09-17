@@ -26,6 +26,7 @@ Ridge Regression: Build and train a ridge regression model to improve prediction
 Model Evaluation: Compare the performance of both models using MAE and R² scores to see how well they predict sale prices.
 Model Prediction: Use the best model to make predictions on a test dataset.
 Feature Importance: (Optional) Visualize the most important features that influence house prices.
+
 Results
 Baseline Mean Absolute Error: ~59,000
 Linear Regression: Trained successfully but overfit, resulting in a poor validation score.
